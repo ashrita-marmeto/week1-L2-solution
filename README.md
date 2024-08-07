@@ -54,7 +54,7 @@ let data = [
     - Sorts shopItemsData based on product price (ascending or descending)
     - Calls generateShop() to update product display based on the sorted product data    
 
-### Logic: 
+### Logic : 
 
 1. Initialize basket from localStorage
 2. Display products using generateShop()
